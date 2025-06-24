@@ -1,0 +1,76 @@
+/* src/sections/Perfil.css */
+.perfil {
+  background-color: #222; /* Cinza escuro para destacar */
+  color: #ddd;
+  padding: 4rem 2rem;
+}
+
+.container-perfil {
+  max-width: 900px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.perfil-img img {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 3px solid #00ffd0;
+  box-shadow: 0 0 12px #00ffd0aa;
+}
+
+.perfil-conteudo {
+  flex: 1;
+  min-width: 280px;
+}
+
+.perfil-nome {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  color: #00ffd0;
+  font-weight: 700;
+}
+
+.perfil-bloco {
+  margin-bottom: 2rem;
+}
+
+.perfil-bloco h3 {
+  font-size: 1.5rem;
+  color: #00ffd0;
+  margin-bottom: 0.5rem;
+}
+
+.perfil-bloco p,
+.perfil-bloco ul {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #ccc;
+  padding-left: 1rem;
+}
+
+.perfil-bloco ul li {
+  margin-bottom: 0.7rem;
+}
+
+/* Responsividade */
+@media (max-width: 700px) {
+  .container-perfil {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .perfil-conteudo {
+    min-width: auto;
+  }
+
+  .perfil-bloco p,
+  .perfil-bloco ul {
+    padding-left: 0;
+  }
+}

@@ -1,0 +1,33 @@
+/* src/sections/Tecnologias.css */
+.tecnologias {
+  background-color: #111;
+  color: #ddd;
+  padding: 4rem 2rem;
+}
+
+.container-tecnologias {
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.titulo-tecnologias {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  color: #00ffd0;
+}
+
+.lista-tecnologias {
+  list-style-type: disc;
+  font-size: 1rem;
+  color: #ccc;
+  text-align: left;
+  margin: 0 auto;
+  padding-left: 1.5rem;
+  max-width: 600px;
+}
+
+.lista-tecnologias li {
+  margin-bottom: 0.8rem;
+  line-height: 1.6;
+}

@@ -1,0 +1,48 @@
+/* src/sections/Experiencia.css */
+.experiencia {
+  background-color: #111;
+  color: #ddd;
+  padding: 4rem 2rem;
+}
+
+.container-experiencia {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.titulo-experiencia {
+  font-size: 2rem;
+  margin-bottom: 2.5rem;
+  text-align: center;
+  color: #00ffd0;
+}
+
+.experiencia-item {
+  margin-bottom: 2.5rem;
+}
+
+.cargo {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #00ffd0;
+  margin-bottom: 0.75rem;
+}
+
+.periodo {
+  font-weight: 400;
+  color: #66ffdb;
+  margin-left: 0.5rem;
+  font-size: 1rem;
+}
+
+.descricao {
+  list-style-type: disc;
+  padding-left: 1.5rem;
+  color: #ccc;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.descricao li {
+  margin-bottom: 0.6rem;
+}

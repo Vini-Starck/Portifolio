@@ -1,0 +1,42 @@
+/* src/sections/Formacao.css */
+.formacao {
+  background-color: #111;
+  color: #ddd;
+  padding: 4rem 2rem;
+}
+
+.container-formacao {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.titulo-formacao {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  text-align: center;
+  color: #00ffd0;
+}
+
+.formacao-item {
+  margin-bottom: 2rem;
+}
+
+.instituicao {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #00ffd0;
+  margin-bottom: 0.5rem;
+}
+
+.data {
+  font-weight: 400;
+  color: #66ffdb;
+  margin-left: 0.5rem;
+  font-size: 1rem;
+}
+
+.curso {
+  font-size: 1rem;
+  color: #ccc;
+  line-height: 1.5;
+}
