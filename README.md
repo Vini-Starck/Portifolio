@@ -45,7 +45,7 @@ Olá! Sou **Vinícius Starck**, desenvolvedor com experiência em front-end e ba
 ## 🔗 Acesso
 
 Você pode acessar o portfólio completo em:  
-👉 [https://viniciusstarck.github.io](https://starck-portifolio.web.app/)
+👉 [https://starck-portifolio.web.app/](https://starck-portifolio.web.app/)
 
 ---
 
