@@ -1,70 +1,85 @@
-# Getting Started with Create React App
+# 🚀 Portfólio | Vinícius Starck
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bem-vindo ao meu portfólio profissional de desenvolvimento web e mobile!  
+Este projeto foi desenvolvido com foco em performance, responsividade e clareza para apresentar minhas experiências, habilidades e projetos de forma moderna e eficiente.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🧑‍💻 Sobre Mim
 
-### `npm start`
+Olá! Sou **Vinícius Starck**, desenvolvedor com experiência em front-end e back-end, apaixonado por tecnologia, design centrado no usuário e soluções práticas que geram impacto real.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📌 Seções do Portfólio
 
-### `npm test`
+- **Perfil** — Apresentação profissional com foto, objetivo e resumo das habilidades.
+- **Formação Acadêmica** — Instituições, cursos e datas.
+- **Experiência Profissional** — Experiências reais com foco em tecnologia e resultados.
+- **Projetos** — Principais projetos com imagens, links e stacks utilizadas.
+- **Competências Técnicas** — Stack de tecnologias, ferramentas e metodologias dominadas.
+- **Idiomas** — Idiomas falados e seus níveis.
+- **Contato** — Formulário funcional com integração via **EmailJS**.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 🛠️ Tecnologias Utilizadas
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- React.js
+- CSS3 (customizado)
+- HTML5
+- Firebase Hosting (para deploy)
+- EmailJS (para envio de mensagens)
+- Git & GitHub
+- Responsividade (Mobile First)
+- Outras bibliotecas: `react-icons`, `emailjs-com`, etc.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🖼️ Imagem de Exemplo
 
-### `npm run eject`
+![Screenshot do portfólio](./src/assets/portifolio.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🔗 Acesso
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Você pode acessar o portfólio completo em:  
+👉 [https://viniciusstarck.github.io](https://starck-portifolio.web.app/)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## 📬 Contato
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Caso queira entrar em contato diretamente:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Email: starck.vinicius@gmail.com  
+- LinkedIn: [https://linkedin.com/in/vinicius-starck](https://linkedin.com/in/vinicius-starck)  
+- GitHub: [https://github.com/Vini-Starck](https://github.com/Vini-Starck)
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## ⚙️ Como Rodar Localmente
 
-### Analyzing the Bundle Size
+```bash
+# Clone este repositório
+git clone https://github.com/Vini-Starck/portifolio.git
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+# Acesse a pasta
+cd portifolio
 
-### Making a Progressive Web App
+# Instale as dependências
+npm install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+# Rode o projeto
+npm start
+```
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 📝 Licença
 
-### Deployment
+Este projeto está sob a licença MIT.
+Sinta-se à vontade para utilizá-lo como base para o seu próprio portfólio (com os devidos créditos, se possível 😉).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Feito com dedicação por Vinícius Starck 👨‍💻
